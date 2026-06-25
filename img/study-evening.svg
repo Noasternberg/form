@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200" viewBox="0 0 300 200" role="img" aria-label="למידת ערב">
+  <rect width="300" height="200" rx="24" fill="#dbeafe"/>
+  <circle cx="75" cy="70" r="38" fill="white" opacity="0.85"/>
+  <text x="75" y="84" text-anchor="middle" font-size="45">🌙</text>
+  <rect x="115" y="62" width="120" height="70" rx="10" fill="white" opacity="0.9"/>
+  <line x1="130" y1="85" x2="220" y2="85" stroke="#4b377c" stroke-width="8" stroke-linecap="round" opacity="0.75"/>
+  <line x1="130" y1="108" x2="200" y2="108" stroke="#4b377c" stroke-width="8" stroke-linecap="round" opacity="0.45"/>
+  <text x="150" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#4b377c">למידת ערב</text>
+</svg>
